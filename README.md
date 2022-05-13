@@ -1,0 +1,2 @@
+- Dự án môn học Quản trị cơ sở dữ liệu
+- Tên dự án: Quản lý bán hàng tại hiệu sách
