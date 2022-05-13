@@ -1,0 +1,75 @@
+D:\Nhóm6QTCSDL\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config
+D:\Nhóm6QTCSDL\Nhom7_45k21.1\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config
+D:\Nhóm6QTCSDL\Nhom7_45k21.1\Nhom7_45k21.1\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config
+D:\Nhom7_45k21.1\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config
+D:\NHOMQTCSDL\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config
+D:\NHOMQTCSDL\Formchinh\Formchinh\bin\Debug\Formchinh.exe
+D:\NHOMQTCSDL\Formchinh\Formchinh\bin\Debug\Formchinh.pdb
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.AssemblyReference.cache
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.DangNhap.resources
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.frmGiaoDien.resources
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.HoaDon.resources
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.HoaDonChiTiet.resources
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.KhachHang.resources
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.KhoHang.resources
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.Properties.Resources.resources
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.QuanLyTaiKhoan.resources
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.GenerateResource.cache
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.CoreCompileInputs.cache
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.exe
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.pdb
+D:\NHOMQTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.NhapChiTiet.resources
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.AssemblyReference.cache
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.DangNhap.resources
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.frmGiaoDien.resources
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.HoaDon.resources
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.HoaDonChiTiet.resources
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.KhachHang.resources
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.KhoHang.resources
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.NhapChiTiet.resources
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.Properties.Resources.resources
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.QuanLyTaiKhoan.resources
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.GenerateResource.cache
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.CoreCompileInputs.cache
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.exe
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.pdb
+E:\NHOM6QTCSDL\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config
+E:\NHOM6QTCSDL\Formchinh\Formchinh\bin\Debug\Formchinh.exe
+E:\NHOM6QTCSDL\Formchinh\Formchinh\bin\Debug\Formchinh.pdb
+E:\NHOM6QTCSDL\Formchinh\Formchinh\obj\Debug\Formchinh.NhaCungCap.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\bin\Debug\Formchinh.exe
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\bin\Debug\Formchinh.pdb
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.AssemblyReference.cache
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.DangNhap.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.NhaCungCap.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.frmGiaoDien.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.HoaDon.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.HoaDonChiTiet.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.KhachHang.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.KhoHang.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.NhapChiTiet.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.Properties.Resources.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.QuanLyTaiKhoan.resources
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.GenerateResource.cache
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.CoreCompileInputs.cache
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.exe
+E:\NHOMQTCSDL\QUANLYHIEUSACH\C#\Formchinh\Formchinh\obj\Debug\Formchinh.pdb
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\bin\Debug\Formchinh.exe.config
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\bin\Debug\Formchinh.exe
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\bin\Debug\Formchinh.pdb
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.AssemblyReference.cache
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.DangNhap.resources
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.NhaCungCap.resources
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.frmGiaoDien.resources
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.HoaDon.resources
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.HoaDonChiTiet.resources
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.KhachHang.resources
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.KhoHang.resources
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.NhapChiTiet.resources
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.Properties.Resources.resources
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.QuanLyTaiKhoan.resources
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.GenerateResource.cache
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.csproj.CoreCompileInputs.cache
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.exe
+E:\NHOMQTCSDL\Code C#\Done\Formchinh\Formchinh\obj\Debug\Formchinh.pdb
